@@ -1,4 +1,4 @@
-package lab4;
+
 	/* TwoDimArrayPractice
 	*  Students Work with this Java file
 	*  On Multi-dimensional Arrays
